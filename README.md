@@ -1,8 +1,9 @@
-LeetBank
+# **LeetBank**
 
-A clean collection of my LeetCode solutions, organized only by question number.
-Each folder contains my personal solution in Java.
+A clean collection of my LeetCode solutions, organized **only by problem number**.  
+Each folder contains my personal solution (Java).
 
+```
 /
 ├── 1/
 │   └── Solution.java
@@ -13,48 +14,64 @@ Each folder contains my personal solution in Java.
 ├── 1513/
 │   └── Solution.java
 └── ...
+```
 
-✔ Simple
-✔ Number-based
-✔ Easy to search
-✔ Always growing
+✔ Simple  
+✔ Number-based  
+✔ Easy to search  
+✔ Always growing  
 
-🚀 How This Repo Works
+---
 
-  Each problem goes into a folder named only with its question number
-  Example:
-    1513/Solution.java
-    200/Solution.java
-    88/Solution.java
+## 🚀 **How This Repo Works**
 
-  No extra files. No boilerplate. Just clean DSA code.
+Each problem is stored inside a folder named **only with its LeetCode problem number**.
 
-📌 Languages Used
+**Example:**
 
-    Java/Python
+```
+1513/Solution.java
+200/Solution.java
+88/Solution.java
+```
 
-📈 Goal
+No extra files.  
+No boilerplate.  
+Just clean DSA code.
 
-  Build a long-term, organized bank of LeetCode solutions —
-  efficient, readable, and maintained consistently.
+---
 
-🛠 Commands I use for Git
+## 🧰 **Languages Used**
 
-  git init
-  git add .
-  git commit -m "Added solution for 1513"
-  git branch -M main
-  git remote add origin https://github.com/<your-username>/LeetBank.git
-  git push -u origin main
+- Java
 
-Future pushes:
+---
 
-  git add .
-  git commit -m "Added solution for <problem-number>"
-  git push
+## 🎯 **Goal**
 
-🌟 Keep solving. Keep depositing. Welcome to LeetBank.
+Build a long-term, organized bank of LeetCode solutions —  
+efficient, readable, and maintained consistently.
 
-    
-  
-    
+---
+
+## 🛠️ **Git Commands I Use**
+
+### First Time Push:
+```bash
+git add .
+git commit -m "Added solution for 1513"
+git branch -M main
+git remote add origin https://github.com/<your-username>/LeetBank.git
+git push -u origin main
+```
+
+### Future pushes:
+```bash
+git add .
+git commit -m "Added solution for <problem-number>"
+git push
+```
+
+---
+
+### ✨ Welcome to LeetBank — deposit daily, grow forever.
