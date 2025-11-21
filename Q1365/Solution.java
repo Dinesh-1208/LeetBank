@@ -8,6 +8,9 @@
 
 package Q1365;
 
+import java.util.Arrays;
+import java.util.HashMap;
+
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int n = nums.length;

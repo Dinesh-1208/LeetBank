@@ -7,6 +7,9 @@
 
 package Q448;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] arr) {
         ArrayList<Integer> list = new ArrayList<>();
