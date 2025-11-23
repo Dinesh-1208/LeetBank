@@ -7,6 +7,9 @@
 
 package Q757;
 
+import java.util.Arrays;
+import java.util.HashSet;
+
 class Solution {
     public int intersectionSizeTwo(int[][] intervals) {
         int n = intervals.length;
