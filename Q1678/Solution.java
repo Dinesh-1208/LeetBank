@@ -1,3 +1,9 @@
+/* 
+   Problem: 1678
+   Source: LeetCode
+   Language: Java
+*/
+
 package Q1678;
 
 class Solution {
