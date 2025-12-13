@@ -4,6 +4,10 @@
    Language: Java
 */
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 class Solution {
 
     static class Event {

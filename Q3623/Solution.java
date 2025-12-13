@@ -4,6 +4,10 @@
    Language: Java
 */
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 class Solution {
     public int countTrapezoids(int[][] points) {
         long MOD = 1_000_000_007;
