@@ -18,6 +18,4 @@ public class Solution {
         }
         System.out.println(ans);
     }
-}Main{
-
 }
