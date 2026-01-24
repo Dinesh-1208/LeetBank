@@ -1,3 +1,5 @@
+package Q507;
+
 class Solution {
     public boolean checkPerfectNumber(int num) {
         if (num == 1)
