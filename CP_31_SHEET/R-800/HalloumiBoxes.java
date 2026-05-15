@@ -20,5 +20,6 @@ public class HalloumiBoxes {
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }
