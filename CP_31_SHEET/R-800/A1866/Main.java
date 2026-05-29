@@ -1,5 +1,6 @@
 import java.util.*;
 public class Main {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int ans = Integer.MAX_VALUE;
