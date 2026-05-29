@@ -1,7 +1,7 @@
 import java.util.*;
 class StockSpanner {
 
-    private Stack<int[]> st;
+    private final Stack<int[]> st;
     public StockSpanner() {
         st = new Stack<>();
     }

@@ -9,7 +9,7 @@ class Solution {
             while(!st.isEmpty() && a < 0 && st.peek() > 0) {
                 if(Math.abs(a) > st.peek()) {
                     st.pop();
-                } else if(Math.abs(a) == st.peek()) {
+                } else if(Math.abs(a ) == st.peek()) {
                     f  = true;
                     st.pop();
                     break;
