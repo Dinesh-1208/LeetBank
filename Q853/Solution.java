@@ -1,3 +1,7 @@
+
+import java.util.Arrays;
+import java.util.Stack;
+
 class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
         int[][] pair = new int[position.length][2];
