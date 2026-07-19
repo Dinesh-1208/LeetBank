@@ -68,8 +68,8 @@ class Solution {
             }
         }
         // check the column
-        for(int j = 0; j < board.length; j++) {
-            if(board[j][col] == num) {
+        for (int[] board1 : board) {
+            if (board1[col] == num) {
                 return false;
             }
         }
