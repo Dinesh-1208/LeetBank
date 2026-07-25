@@ -2,6 +2,7 @@ import java.util.*;
 public class Main {
     static int[] dx = {-1, 1, -1, 1};
     static int[] dy = {-1, -1, 1, 1};
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
