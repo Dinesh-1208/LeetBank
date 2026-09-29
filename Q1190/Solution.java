@@ -5,14 +5,16 @@ class Solution {
         Stack<StringBuilder> st = new Stack<>();
         StringBuilder curr = new StringBuilder();
         for(char c : s.toCharArray()) {
-            if(c == '(') {
-                st.push(curr);
-                curr = new StringBuilder();
-            } else if(c == ')') {
-                curr.reverse();
-                curr = st.pop().append(curr);
-            } else {
-                curr.append(c);
+            switch (c) {
+                case '(' -> {
+                    st.push(curr);
+                    curr = new StringBuilder();
+                }
+                case ')' -> {
+                    curr.reverse();
+                    curr = st.pop().append(curr);
+                }
+                default -> curr.append(c);
             }
         }
         return curr.toString();
