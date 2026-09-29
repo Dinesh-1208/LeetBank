@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public boolean hasValidPath(char[][] grid) {
         int m = grid.length;
