@@ -97,6 +97,7 @@ git push
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Dinesh-1208/LeetBank/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dinesh-1208/LeetBank/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0086-partition-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -104,6 +105,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Recursion
