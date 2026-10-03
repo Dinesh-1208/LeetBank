@@ -94,6 +94,7 @@ git push
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dinesh-1208/LeetBank/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0143-reorder-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -102,5 +103,6 @@ git push
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dinesh-1208/LeetBank/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
