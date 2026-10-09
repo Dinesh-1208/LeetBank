@@ -86,6 +86,7 @@ git push
 | [0856-score-of-parentheses](https://github.com/Dinesh-1208/LeetBank/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dinesh-1208/LeetBank/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dinesh-1208/LeetBank/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-1208/LeetBank/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ git push
 | [0856-score-of-parentheses](https://github.com/Dinesh-1208/LeetBank/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dinesh-1208/LeetBank/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dinesh-1208/LeetBank/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-1208/LeetBank/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ git push
 | [0856-score-of-parentheses](https://github.com/Dinesh-1208/LeetBank/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dinesh-1208/LeetBank/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dinesh-1208/LeetBank/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-1208/LeetBank/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +144,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Dinesh-1208/LeetBank/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-1208/LeetBank/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
