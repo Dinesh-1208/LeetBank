@@ -165,6 +165,7 @@ git push
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +193,5 @@ git push
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 <!---LeetCode Topics End-->
