@@ -160,6 +160,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -179,6 +180,7 @@ git push
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Binary Search
@@ -189,4 +191,5 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 <!---LeetCode Topics End-->
