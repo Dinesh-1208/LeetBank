@@ -126,6 +126,7 @@ git push
 | [0086-partition-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinesh-1208/LeetBank/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ git push
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinesh-1208/LeetBank/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -182,11 +184,13 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinesh-1208/LeetBank/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinesh-1208/LeetBank/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
