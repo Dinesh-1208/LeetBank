@@ -108,6 +108,7 @@ git push
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Dinesh-1208/LeetBank/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Dinesh-1208/LeetBank/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dinesh-1208/LeetBank/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -131,6 +132,7 @@ git push
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Dinesh-1208/LeetBank/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Dinesh-1208/LeetBank/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dinesh-1208/LeetBank/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0143-reorder-list/) | Medium |
@@ -195,6 +197,7 @@ git push
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Dinesh-1208/LeetBank/tree/main/0002-add-two-numbers/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
