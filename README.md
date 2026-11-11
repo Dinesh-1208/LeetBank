@@ -122,6 +122,7 @@ git push
 | [0328-odd-even-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Dynamic Programming
