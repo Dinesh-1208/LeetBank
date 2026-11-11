@@ -112,6 +112,7 @@ git push
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Dinesh-1208/LeetBank/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Dinesh-1208/LeetBank/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dinesh-1208/LeetBank/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -213,4 +214,20 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
