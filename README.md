@@ -119,6 +119,7 @@ git push
 | [0086-partition-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0086-partition-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Dinesh-1208/LeetBank/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Dinesh-1208/LeetBank/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -147,6 +148,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Dinesh-1208/LeetBank/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/Dinesh-1208/LeetBank/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -232,4 +234,12 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dinesh-1208/LeetBank/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Dinesh-1208/LeetBank/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Dinesh-1208/LeetBank/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
