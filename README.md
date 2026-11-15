@@ -182,6 +182,7 @@ git push
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dinesh-1208/LeetBank/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Enumeration
@@ -246,4 +247,12 @@ git push
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Dinesh-1208/LeetBank/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Dinesh-1208/LeetBank/tree/main/0460-lfu-cache/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dinesh-1208/LeetBank/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dinesh-1208/LeetBank/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
