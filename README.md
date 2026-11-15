@@ -181,6 +181,7 @@ git push
 | [1019-next-greater-node-in-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinesh-1208/LeetBank/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2028-find-missing-observations](https://github.com/Dinesh-1208/LeetBank/tree/main/2028-find-missing-observations/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -219,6 +220,7 @@ git push
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2028-find-missing-observations](https://github.com/Dinesh-1208/LeetBank/tree/main/2028-find-missing-observations/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -259,4 +261,8 @@ git push
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dinesh-1208/LeetBank/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2028-find-missing-observations](https://github.com/Dinesh-1208/LeetBank/tree/main/2028-find-missing-observations/) | Medium |
 <!---LeetCode Topics End-->
