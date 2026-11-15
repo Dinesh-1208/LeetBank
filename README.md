@@ -159,6 +159,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Dinesh-1208/LeetBank/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ git push
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dinesh-1208/LeetBank/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinesh-1208/LeetBank/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dinesh-1208/LeetBank/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -216,6 +218,7 @@ git push
 | [0445-add-two-numbers-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -254,5 +257,6 @@ git push
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dinesh-1208/LeetBank/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
