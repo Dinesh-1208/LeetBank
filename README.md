@@ -187,12 +187,14 @@ git push
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dinesh-1208/LeetBank/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dinesh-1208/LeetBank/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dinesh-1208/LeetBank/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh-1208/LeetBank/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dinesh-1208/LeetBank/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@ git push
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2028-find-missing-observations](https://github.com/Dinesh-1208/LeetBank/tree/main/2028-find-missing-observations/) | Medium |
 | [3360-stone-removal-game](https://github.com/Dinesh-1208/LeetBank/tree/main/3360-stone-removal-game/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dinesh-1208/LeetBank/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -258,6 +261,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dinesh-1208/LeetBank/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dinesh-1208/LeetBank/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,4 +272,8 @@ git push
 | ------- | ------- |
 | [2028-find-missing-observations](https://github.com/Dinesh-1208/LeetBank/tree/main/2028-find-missing-observations/) | Medium |
 | [3360-stone-removal-game](https://github.com/Dinesh-1208/LeetBank/tree/main/3360-stone-removal-game/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dinesh-1208/LeetBank/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
