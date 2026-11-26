@@ -222,6 +222,7 @@ git push
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-1208/LeetBank/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-1208/LeetBank/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2028-find-missing-observations](https://github.com/Dinesh-1208/LeetBank/tree/main/2028-find-missing-observations/) | Medium |
+| [3360-stone-removal-game](https://github.com/Dinesh-1208/LeetBank/tree/main/3360-stone-removal-game/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinesh-1208/LeetBank/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -266,4 +267,5 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2028-find-missing-observations](https://github.com/Dinesh-1208/LeetBank/tree/main/2028-find-missing-observations/) | Medium |
+| [3360-stone-removal-game](https://github.com/Dinesh-1208/LeetBank/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
